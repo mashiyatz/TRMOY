@@ -2,7 +2,7 @@
 Code and documentation for a Unity3D project by Jo Suk and Mashi Zaman for Hypercinema Fall 2022 at ITP. Take a break in your living room filled with books we’ve shared with you throughout years of friendship. Use mouse or scroll wheel to search the room, and click to read our dedications to you. <a href="https://youtu.be/eiOH1X2wOLE">Watch a demo of the experience here</a>.
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/43973044/208791162-5f12d3ce-8a2e-4ffc-8486-3ea03391741c.png">
+<img src="https://user-images.githubusercontent.com/43973044/208791162-5f12d3ce-8a2e-4ffc-8486-3ea03391741c.png" alt="A still image of a living room that is the setting of this game and the title This Reminded Me Of You. The room, depicted in an isometric perspective, has a couch on one wall facing a TV and shelves on the opposite side. The wall between them has a pair of wall length windows with a big blue curtain covering them. On the shelves, and on a coffee table in front of the couch, are many books, some neatly arranged, others scattered.">
 </p>
 
 ### Introduction
@@ -23,9 +23,9 @@ Players are free to engage with the room for as long as it takes them to find al
 ### Pictures
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/43973044/208799840-6e7dcdb2-668a-4cc1-be4d-bc2ec1781853.jpg">
+<img src="https://user-images.githubusercontent.com/43973044/208799840-6e7dcdb2-668a-4cc1-be4d-bc2ec1781853.jpg" alt="A player reads the note written for Convenience Store Woman at the ITP Winter Show/">
 </p>
 
 <p align="center">
-<img src="https://user-images.githubusercontent.com/43973044/208799855-d07214ae-8966-4081-85a5-32fc6ddf2ca6.jpg">
+<img src="https://user-images.githubusercontent.com/43973044/208799855-d07214ae-8966-4081-85a5-32fc6ddf2ca6.jpg" alt="Another player reads the note written for Persepolis.">
 </p>
