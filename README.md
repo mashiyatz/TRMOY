@@ -20,8 +20,6 @@ Players are free to engage with the room for as long as it takes them to find al
 * The space in which one plays this game is important for creating a relaxed atmosphere for the player, just like the ambient music and desaturated color tones. 
 * This scene is like a more interactive Goodreads - we could help others create such spaces for themselves, or alternatively, allow a way to develop the room with artifacts and recommendations over time. Consider generating books retrieved from a database that is updated online. We could export this scene to a web browser as well. 
 
-### Pictures
-
 <p align="center">
 <img src="https://user-images.githubusercontent.com/43973044/208799840-6e7dcdb2-668a-4cc1-be4d-bc2ec1781853.jpg" alt="A player reads the note written for Convenience Store Woman at the ITP Winter Show/">
 </p>
